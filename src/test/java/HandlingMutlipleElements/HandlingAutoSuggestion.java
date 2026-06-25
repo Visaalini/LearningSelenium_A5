@@ -21,7 +21,6 @@ public class HandlingAutoSuggestion {
 		//Take input of user
 		Scanner sc= new Scanner(System.in);
 		
-		searchbox.sendKeys(searchdata);
 		
 
 	}
