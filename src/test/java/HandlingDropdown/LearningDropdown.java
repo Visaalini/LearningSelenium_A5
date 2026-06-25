@@ -1,4 +1,4 @@
-package LearningDropdown;
+package HandlingDropdown;
 
 import java.time.Duration;
 import java.util.List;
