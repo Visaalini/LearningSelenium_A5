@@ -38,6 +38,13 @@ public class LearningMouseAction {
 		  actionobj.moveToElement(ele2).contextClick(ele2).perform();
 		 
 		  
+		  //perform drag and drop action
+		  
+		  driver.get("https://vinothqaacademy.com/mouse-event/");
+		  
+		   WebElement drag = driver.findElement(By.id("dragItem"));
+		   
+		  
 
 		  
 		  
